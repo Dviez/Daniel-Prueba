@@ -1,1 +1,1 @@
-# Daniel-Prueba
+Esta es una prueba de práctica para crear un repositorio y clonarlo desde hithub al computador.
